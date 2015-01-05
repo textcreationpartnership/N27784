@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037031_0000_100C8A366063E2A8"/>
-            <pb facs="tcp:037031_0001_100C8A384594C988" rendition="simple:additions"/>
+            <pb facs="unknown:037031_0000_100C8A366063E2A8"/>
+            <pb facs="unknown:037031_0001_100C8A384594C988"
+                rendition="simple:additions"/>
             <p>AN ODE, IN HONOR OF THE PENNSYLVANIA MILITIA, AND A <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> BAND OF REGULAR TROOPS, UNDER THE COMMAND OF Gen. George Washington; WHO IN THE DEPTH OF WINTER, IN THE YEAR 1776, TURNED THE TIDE OF FOR<g ref="char:EOLhyphen"/>TUNE AGAINST BRITAIN, AND REPUL<g ref="char:EOLhyphen"/>SED HER FORCES TO THE BANKS OF THE RIVER DELAWARE.</p>
@@ -127,7 +128,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:037031_0002_100C8A3A73F4DB88"/>
+            <pb facs="unknown:037031_0002_100C8A3A73F4DB88"/>
             <head>AN ODE, &amp;c.</head>
             <lg n="1">
                <head>I.</head>
@@ -172,7 +173,7 @@
                <l>"Many a youthful warrior ſlain:—</l>
             </lg>
             <lg n="7">
-               <pb n="4" facs="tcp:037031_0003_100C8A3C6D370AF0"/>
+               <pb n="4" facs="unknown:037031_0003_100C8A3C6D370AF0"/>
                <head>VII.</head>
                <l>"Many an aged hoary head,</l>
                <l>"Bare to winter's cloudy ſky,</l>
@@ -229,7 +230,7 @@
                <l>Each in armour like a ſtar:—</l>
             </lg>
             <lg n="15">
-               <pb n="5" facs="tcp:037031_0004_100C8A3F104F8980"/>
+               <pb n="5" facs="unknown:037031_0004_100C8A3F104F8980"/>
                <head>XV.</head>
                <l>Gallant youths! when you return</l>
                <l>From the field of hoſtile play,</l>
@@ -286,7 +287,7 @@
                <l>With a happy confluence:—</l>
             </lg>
             <lg n="23">
-               <pb n="6" facs="tcp:037031_0005_100C8A40A0070920"/>
+               <pb n="6" facs="unknown:037031_0005_100C8A40A0070920"/>
                <head>XXIII.</head>
                <l>Thus the diff'rent reg'ments join</l>
                <l>Of militia from the ſtate,</l>
@@ -343,7 +344,7 @@
                <l>"Let your troops be foremoſt ſeen!</l>
             </lg>
             <lg n="31">
-               <pb n="7" facs="tcp:037031_0006_100C8A42C48F5BC0"/>
+               <pb n="7" facs="unknown:037031_0006_100C8A42C48F5BC0"/>
                <head>XXXI.</head>
                <l>"Wipe the foul diſgrace away</l>
                <l>"Of your brethren, captive made—</l>
@@ -400,7 +401,7 @@
                <l>Rend the wieldy, bending ſkies!</l>
             </lg>
             <lg n="39">
-               <pb n="8" facs="tcp:037031_0007_100C8295807514A8"/>
+               <pb n="8" facs="unknown:037031_0007_100C8295807514A8"/>
                <head>XXXIX.</head>
                <l>Drench'd in blood, is Princeton's plain,</l>
                <l>(Where the Muſe that breathes the lay,</l>
@@ -457,7 +458,7 @@
                <l>Soft and elegantly bred.—</l>
             </lg>
             <lg n="47">
-               <pb n="9" facs="tcp:037031_0008_100C8A4701FBB0C0"/>
+               <pb n="9" facs="unknown:037031_0008_100C8A4701FBB0C0"/>
                <head>XLVII.</head>
                <l>But no depths of winter's ſnow</l>
                <l>Could the march of theſe repreſs—</l>
@@ -514,7 +515,7 @@
                <l>Steps with majeſty and grace?</l>
             </lg>
             <lg n="55">
-               <pb n="10" facs="tcp:037031_0009_100C8A4945C8D5C0"/>
+               <pb n="10" facs="unknown:037031_0009_100C8A4945C8D5C0"/>
                <head>LV.</head>
                <l>Mild his eye—his look ſerene</l>
                <l>Placid as the evening ſun;</l>
